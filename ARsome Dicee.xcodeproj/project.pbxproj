@@ -57,11 +57,11 @@
 			isa = PBXGroup;
 			children = (
 				7BCED3B322C6934800BA707E /* AppDelegate.swift */,
-				7BCED3B522C6934800BA707E /* art.scnassets */,
 				7BCED3B722C6934800BA707E /* ViewController.swift */,
 				7BCED3B922C6934800BA707E /* Main.storyboard */,
-				7BCED3BC22C6934900BA707E /* Assets.xcassets */,
 				7BCED3BE22C6934900BA707E /* LaunchScreen.storyboard */,
+				7BCED3B522C6934800BA707E /* art.scnassets */,
+				7BCED3BC22C6934900BA707E /* Assets.xcassets */,
 				7BCED3C122C6934900BA707E /* Info.plist */,
 			);
 			path = "ARsome Dicee";
